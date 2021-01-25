@@ -28,6 +28,10 @@
   - Vim plugin for the c_formatter_42 formatter
 
 ## norminette
+- [42Paris/norminette](https://github.com/42Paris/norminette)
+  - The Norminette is a tool by 42 Network, to check that the source code respects the school’s norm.
+- [alexandregv/norminette-docker](https://github.com/alexandregv/norminette-docker)
+  - Dockerized norminette (42School's code linter)
 - [alexandregv/norminette-vim](https://github.com/alexandregv/norminette-vim)
   - 42 norminette (linter) for vim
 - [Mazoise/NORMINETTE_VM_INSTALL](https://github.com/Mazoise/NORMINETTE_VM_INSTALL)
