@@ -4,6 +4,10 @@
 - [alexandregv/42toolbox](https://github.com/alexandregv/42toolbox)
   - A bunch of scripts to make your life better at @42School
 
+## 42API
+- [hivehelsinki/42api-lib](https://github.com/hivehelsinki/42api-lib)
+  - Python script for using 42API
+
 ## BH & XP
 - [cldidier/42_xp_calculator](https://github.com/cldidier/42_xp_calculator)
   - simple xp calculator that gives you your xp and calc your next project bh gain
