@@ -1,6 +1,6 @@
 # 42tools
 
-| category   | name                                                                                                           | description                                                                                                          |
+| Category   | Name                                                                                                           | Description                                                                                                          |
 |------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | General    | [42toolbox](https://github.com/alexandregv/42toolbox)                                                          | A bunch of scripts to make your life better at @42School                                                             |
 | 42API      | [42api-lib](https://github.com/hivehelsinki/42api-lib)                                                         | Python script for using 42API                                                                                        |
