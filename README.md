@@ -37,6 +37,7 @@
 | minilibx       | [minilibx-linux](https://github.com/42Paris/minilibx-linux)                                                    | This is the MinilibX, a simple X-Window (X11R6) programming API in C, designed for students, suitable for X-beginners. |
 |                | [mlx_install_script](https://github.com/Dirty-No/mlx_install_script)                                           | A bash script to install minilibx on linux                                                                             |
 | Subject        | [kernel](https://github.com/42Workgroup/kernel)                                                                | Kernel From Scratch course                                                                                             |
+| Correction     | [42_Corrections](https://github.com/Binary-Hackers/42_Corrections)                                             | Corrections files of 42 School                                                                                         |
 | Others         | [The Algorithms](https://github.com/TheAlgorithms)                                                             | Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language    |
 |                | [apt-42/resources](https://github.com/apt-42/resources)                                                        | A selection of resources to learn infosec                                                                              |
 
